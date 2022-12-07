@@ -3,7 +3,7 @@ This repository provides the radial space-filling visualization for the [Emacs A
 
 ### Install 
 1. Install [EAF](https://github.com/emacs-eaf/emacs-application-framework#install) 
-2. Install eaf-sunburst: switch to directory emacs-application-framework, execute command `./install-eaf.py sunburst`
+2. Install eaf-sunburst: switch to directory emacs-application-framework, execute command `./install-eaf.py --install sunburst`
 3. Then add below code in your emacs config:
 
 
